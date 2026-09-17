@@ -17,7 +17,7 @@ namespace Okosotthon.Models
             Targy = targy;
         }
 
-        public override void Kuld(string uzenet)
+        public override void Kuld(Ertesites ertesites)
         {
             throw new NotImplementedException();
         }

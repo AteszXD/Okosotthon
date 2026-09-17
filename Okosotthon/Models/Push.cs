@@ -13,7 +13,7 @@ namespace Okosotthon.Models
         {
             Eszkoz = eszkoz;
         }
-        public override void Kuld(string uzenet)
+        public override void Kuld(Ertesites ertesites)
         {
             throw new NotImplementedException();
         }

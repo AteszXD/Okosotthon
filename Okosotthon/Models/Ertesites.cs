@@ -17,6 +17,6 @@ namespace Okosotthon.Models
             this.Idobelyeg = idobelyeg;
         }
 
-        public abstract void Kuld(string uzenet);
+        public abstract void Kuld(Ertesites ertesites);
     }
 }
