@@ -1,4 +1,5 @@
 ﻿// 1. Okosotthon
+using Okosotthon.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace Okosotthon
     {
         static void Main()
         {
+            
         }
     }
 }
